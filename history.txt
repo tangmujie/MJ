@@ -1,0 +1,1000 @@
+  109  MAKE
+  110  ./pdp -c 172.0.1.225 1
+  111  vi onlineCM2.temp
+  112  ./pdp -c 172.0.1.225 1
+  113  MAKE
+  114  ./pdp -c 172.0.1.225 1
+  115  make
+  116  ./pdp -c 172.0.1.225 1
+  117  make
+  118  ./pdp -c 172.0.1.225 1
+  119  vi onlineCM2.temp
+  120  ./pdp -c 172.0.1.225 1
+  121  vi onlineCM2.temp
+  122  ./pdp -c 172.0.1.225 1
+  123  vi onlineCM2.temp
+  124  ./pdp -c 172.0.1.225 1
+  125  vi onlineCM2.temp
+  126  ./pdp -c 172.0.1.225 1
+  127  MAKE
+  128  ./pdp -c 172.0.1.225 1
+  129  vi onlineCM2.temp
+  130  make
+  131  ./pdp -c 172.0.1.225 1
+  132  make
+  133  ./pdp -c 172.0.1.225 1
+  134  vi onlineCM2.temp
+  135  ./pdp -c 172.0.1.225 1
+  136  make
+  137  ./pdp -c 172.0.1.225 1
+  138  make
+  139  ./pdp -c 172.0.1.225 1
+  140  make
+  141  mkae
+  142  ./pdp -c 172.0.1.225 1
+  143  vi onlineCM2.temp
+  144  ./pdp -c 172.0.1.225 1
+  145  vi onlineCM2.temp
+  146  ./pdp -c 172.0.1.225 1
+  147  vi onlineCM2.temp
+  148  make
+  149  vi pdp.ini
+  150  vi onlineCM2.temp
+  151  ./pdp -c 172.0.1.224 1
+  152  make
+  153  ./pdp -c 172.0.1.224 1
+  154  vi onlineCM2.temp
+  155  ./pdp -c 172.0.1.224 1
+  156  vi onlineCM2.temp
+  157  ./pdp -c 172.0.1.224 1
+  158  make
+  159  ./pdp -c 172.0.1.224 1
+  160  MAKE
+  161  ./pdp -c 172.0.1.224 1
+  162  mkae
+  163  make
+  164  ./pdp -c 172.0.1.224 1
+  165  make
+  166  ./pdp -c 172.0.1.224 1
+  167  make
+  168  ./pdp -c 172.0.1.224 1make
+  169  make
+  170  ./pdp -c 172.0.1.224 1make
+  171  make
+  172  ./pdp -c 172.0.1.224 1make
+  173  make
+  174  ./pdp -c 172.0.1.224 1make
+  175  make
+  176  ./pdp -c 172.0.1.224 1make
+  177  make
+  178  ./pdp -c 172.0.1.224 1make
+  179  make
+  180  ./pdp -c 172.0.1.224 1make
+  181  make
+  182  ./pdp -c 172.0.1.224 1make
+  183  make
+  184  ./pdp -c 172.0.1.224 1make
+  185  make
+  186  ./pdp -c 172.0.1.224 1make
+  187  vi onlineCM2.temp
+  188  ./pdp -c 172.0.1.224 1make
+  189  make
+  190  ./pdp -c 172.0.1.224 1make
+  191  ./pdp -c 172.0.1.224 1
+  192  make
+  193  ./pdp -c 172.0.1.224 1
+  194  vi onlineCM2.temp
+  195  ./pdp -c 172.0.1.224 1
+  196  make
+  197  ./pdp -c 172.0.1.224 1
+  198  vi onlineCM2.temp
+  199  ./pdp -c 172.0.1.224 1
+  200  make
+  201  ./pdp -c 172.0.1.224 1
+  202  vi onlineCM2.temp
+  203  ./pdp -c 172.0.1.224 1
+  204  make
+  205  vi onlineCM2.temp
+  206  ./pdp -c 172.0.1.224 1
+  207  make
+  208  ./pdp -c 172.0.1.224 1
+  209  make
+  210  ./pdp -c 172.0.1.224 1
+  211  make
+  212  ./pdp -c 172.0.1.224 1
+  213  vi onlineCM2.2
+  214  vi onlineCM2.temp
+  215  ./pdp -c 172.0.1.224 1
+  216  make
+  217  ./pdp -c 172.0.1.224 1
+  218  vi onlineCM2.temp
+  219  ./pdp -c 172.0.1.224 1
+  220  make
+  221  ./pdp -c 172.0.1.224 1
+  222  make
+  223  ./pdp -c 172.0.1.224 1
+  224  vi onlineCM2.temp
+  225  ./pdp -c 172.0.1.224 1
+  226  vi onlineCM2.temp
+  227  ./pdp -c 172.0.1.224 1
+  228  vi onlineCM2.temp
+  229  ./pdp -c 172.0.1.224 1
+  230  vi onlineCM2.temp
+  231  ./pdp -c 172.0.1.224 1
+  232  MAKE
+  233  ./pdp -c 172.0.1.224 1
+  234  vi onlineCM2.temp
+  235  ./pdp -c 172.0.1.224 1
+  236  MAKE
+  237  ./pdp -c 172.0.1.224 1
+  238  make
+  239  ./pdp -c 172.0.1.224 1
+  240  make
+  241  ./pdp -c 172.0.1.224 1
+  242  make
+  243  ./pdp -c 172.0.1.224 1
+  244  vi onlineCM2.temp
+  245  ./pdp -c 172.0.1.224 1
+  246  vi onlineCM2.2
+  247  vi onlineCM2.temp
+  248  ./pdp -c 172.0.1.224 1
+  249  vi onlineCM2.temp
+  250  ./pdp -c 172.0.1.224 1
+  251  grepch "COPS_STYPE_SBSCRB_ID_IPV4"
+  252  grepch COPS_PCMM_SUBID_LEN_IPV4
+  253  grepch COPS_PCMM_STYPE_IPV6_CLASSIFIERS
+  254  make
+  255  grepch COPS_PCMM_LEGACY_CLASSIFIERS_LEN
+  256  make
+  257  ./pdp -c 172.0.1.224 1
+  258  vi onlineCM2.temp
+  259  ./pdp -c 172.0.1.224 1
+  260  make
+  261  ./pdp -c 172.0.1.224 1
+  262  vi onlineCM2.temp
+  263  ./pdp -c 172.0.1.224 1
+  264  vi onlineCM2.temp
+  265  make
+  266  ./pdp -c 172.0.1.224 1
+  267  make
+  268  ./pdp -c 172.0.1.224 1
+  269  grepch COPS_PCMM_STYPE_LEGACY_CLASSIFIERS
+  270  ./pdp -c 172.0.1.224 1
+  271  vi onlineCM2.temp
+  272  ./pdp -c 172.0.1.224 1
+  273  make
+  274  ./pdp -c 172.0.1.224 1
+  275  make
+  276  ./pdp -c 172.0.1.224 1
+  277  vi onlineCM2.temp
+  278  ./pdp -c 172.0.1.224 1
+  279  make
+  280  ./pdp -c 172.0.1.224 1
+  281  MAKE
+  282  ./pdp -c 172.0.1.224 1
+  283  MAKE
+  284  ./pdp -c 172.0.1.224 1
+  285  make
+  286  ./pdp -c 172.0.1.224 1
+  287  make
+  288  ./pdp -c 172.0.1.224 1
+  289  vi onlineCM2.temp
+  290  ./pdp -c 172.0.1.224 1
+  291  make
+  292  ./pdp -c 172.0.1.224 1
+  293  vi onlineCM2.temp
+  294  ./pdp -c 172.0.1.224 1
+  295  make
+  296  ./pdp -c 172.0.1.224 1
+  297  make
+  298  ./pdp -c 172.0.1.224 1
+  299  make
+  300  ./pdp -c 172.0.1.224 1
+  301  make
+  302  ./pdp -c 172.0.1.224 1
+  303  make
+  304  ./pdp -c 172.0.1.224 1
+  305  make
+  306  vi onlineCM2.temp
+  307  vi pdp.ini
+  308  ./pdp -c 172.0.1.225 1
+  309  make
+  310  ./pdp -c 172.0.1.225 1
+  311  make
+  312  ./pdp -c 172.0.1.225 1
+  313  vi onlineCM2.temp
+  314  ./pdp -c 172.0.1.225 1
+  315  vi  onlineCM2.temp
+  316  vi pdp.ini
+  317  ./pdp -c 172.0.1.224 1
+  318  ./pdp -c 172.0.1.225 1
+  319  pwd
+  320  make
+  321  vi onlineCM2.temp
+  322  vi pdp.ini
+  323  ./pdp -c 172.0.1.225 1
+  324  make
+  325  ./pdp -c 172.0.1.225 1
+  326  vi onlineCM2.temp
+  327  ./pdp -c 172.0.1.225 1
+  328  make
+  329  nl onlineCM2.temp
+  330  ./pdp -c 172.0.1.225 1
+  331  vi onlineCM2.temp
+  332  ./pdp -c 172.0.1.225 1
+  333  make
+  334  ./pdp -c 172.0.1.225 1
+  335  nl onlineCM2.temp
+  336  ./pdp -c 172.0.1.225 1
+  337  make
+  338  ./pdp -c 172.0.1.225 1
+  339  make
+  340  ./pdp -c 172.0.1.225 1
+  341  make
+  342  ./pdp -c 172.0.1.225 1
+  343  vi onlineCM2.temp
+  344  ./pdp -c 172.0.1.225 1
+  345  make
+  346  vi onlineCM2.temp
+  347  ./pdp -c 172.0.1.225 1
+  348  make
+  349  ./pdp -c 172.0.1.225 1
+  350  vi pdp.ini
+  351  vi onlineCM2.temp
+  352  ./pdp -c 172.0.1.224 1
+  353  vi onlineCM2.temp
+  354  make
+  355  ./pdp -c 172.0.1.224 1
+  356  MAKE
+  357  nl onlineCM2.temp
+  358  ./pdp -c 172.0.1.224 1
+  359  vi onlineCM2.temp
+  360  ./pdp -c 172.0.1.224 1
+  361  vi onlineCM2.
+  362  vi onlineCM2.temp
+  363  ./pdp -c 172.0.1.224 1
+  364  make
+  365  ./pdp -c 172.0.1.224 1
+  366  make
+  367  nl onlineCM2.temp
+  368  ./pdp -c 172.0.1.224 1
+  369  vi onlineCM2.temp
+  370  ./pdp -c 172.0.1.224 1
+  371  make
+  372  ./pdp -c 172.0.1.224 1
+  373  make
+  374  vi onlineCM
+  375  make
+  376  nl onlineCM2.
+  377  nl onlineCM2.temp
+  378  ./pdp -c 172.0.1.225 1
+  379  vi onlineCM2.temp
+  380  ./pdp -c 172.0.1.225 1
+  381  make
+  382  vi onlineCM2.temp
+  383  ./pdp -c 172.0.1.225 1
+  384  make
+  385  ./pdp -c 172.0.1.225 1
+  386  vi onlineCM2.temp
+  387  ./pdp -c 172.0.1.225 1
+  388  nl onlineCM2.temp
+  389  vi onlineCM2.temp
+  390  ./pdp -c 172.0.1.225 1
+  391  make
+  392  ./pdp -c 172.0.1.225 1
+  393  vi onlineCM2.temp
+  394  ./pdp -c 172.0.1.225 1
+  395  vi onlineCM2.temp
+  396  make
+  397  ./pdp -c 172.0.1.225 1
+  398  make
+  399  nl onlineCM2.temp
+  400  ./pdp -c 172.0.1.225 1
+  401  vi onlineCM2.temp
+  402  ./pdp -c 172.0.1.225 1
+  403  mkdir ../sim_ps_cms_pcmm_07_18
+  404  cp ../sim_ps_cms_pcmm/* ../sim_ps_cms_pcmm_07_18
+  405  ls ../sim_ps_cms_pcmm_07_18
+  406  make
+  407  vi onlineCM2.temp
+  408  ./pdp -c 172.0.1.225 1
+  409  vi onlineCM2.temp
+  410  ./pdp -c 172.0.1.225 1
+  411  make
+  412  ./pdp -c 172.0.1.225 1
+  413  vi onlineCM2.temp
+  414  ./pdp -c 172.0.1.225 1
+  415  make
+  416  ./pdp -c 172.0.1.225 1
+  417  vi onlineCM2.temp
+  418  ./pdp -c 172.0.1.225 1
+  419  vi pdp.ini
+  420  ./pdp -c 172.0.1.224 1
+  421  make
+  422  ./pdp -c 172.0.1.224 1
+  423  cd ../sim_ps_cms_pcmm_07_18/
+  424  vi onlineCM2.temp
+  425  ./pdp -c 172.0.1.224 1
+  426  cd -
+  427  ls
+  428  vi onlineCM2.temp
+  429  vi pdp.ini
+  430  vi onlineCM2.temp
+  431  make
+  432  ./pdp -c 172.0.1.225 1
+  433  vi onlineCM2.temp
+  434  ./pdp -c 172.0.1.225 1
+  435  make
+  436  ./pdp -c 172.0.1.225 1
+  437  vi onlineCM2.temp
+  438  ./pdp -c 172.0.1.225 1
+  439  ll ..
+  440  pwd
+  441  make
+  442  ./pdp -c 172.0.1.225 1
+  443  make
+  444  vi onlineCM2.temp
+  445  ./pdp -c 172.0.1.225 1
+  446  make
+  447  ./pdp -c 172.0.1.225 1
+  448  make
+  449  vi onlineCM2.temp
+  450  ./pdp -c 172.0.1.225 1
+  451  vi onlineCM2.temp
+  452  nl onlineCM2.temp
+  453  ./pdp -c 172.0.1.225 1
+  454  cp ../sim_ps_cms_pcmm/* ../sim_ps_cms_pcmm_07_18/
+  455  scp ../sim_ps_cms_pcmm_07_18/* casa@172.0.5.9:/tftpboot/tmj/sim_ps_cms_pcmm_07_18/
+  456  pwd
+  457  ll ../
+  458  mkdir ../164_tmj
+  459  cd ../164_tmj/
+  460  scp -r tmj@172.0.1.164:/home/tmj/* ./
+  461  kk
+  462  ll
+  463  scp -r tmj@172.0.1.164:/home/tmj/shell/* ./
+  464  ll
+  465  scp -r tmj@172.0.1.164:/home/tmj/shell/ ./
+  466  ll
+  467  scp -r tmj@172.0.1.164:/home/tmj/shell.tar ./
+  468  scp -r tmj@172.0.1.164:/home/tmj/sim_ps_cms_pcmm ./sim_ps_cms_pcmm/
+  469  ll
+  470  cd -
+  471  grepch debug_fg
+  472  cd /vob/tmj/sim_ps_cms_pcmm
+  473  head -2 pdp.ini
+  474  head -3 pdp.ini
+  475  head -5 pdp.ini
+  476  ./pdp -c 172.0.1.225 1
+  477  vi onlineCM2.temp
+  478  ./pdp -c 172.0.1.225 1
+  479  vi onlineCM2.temp
+  480  ./pdp -c 172.0.1.225 1
+  481  vi onlineCM2.temp
+  482  histroy
+  483  history
+  484  ./pdp -c 172.0.1.225 1
+  485  vi pdp.ini
+  486  ll ../
+  487  vi pdp.ini
+  488  make
+  489  ./pdp -c 172.0.1.225 1
+  490  make
+  491  ./pdp -c 172.0.1.225 1
+  492  vi pdp.ini
+  493  grepch ucAddr_Type
+  494  grepch ucFlag
+  495  grepc dwPrimaryRKSIP
+  496  grepch
+  497  grepch dwPrimaryRKSIP
+  498  ping 172.0.1.133
+  499  vi pdp.ini
+  500  ./pdp -c 172.0.1.225 1
+  501  vi pdp.ini
+  502  vi onlineCM2.temp
+  503  ./pdp -c 172.0.1.225 1
+  504  cp -r ../sim_ps_cms_pcmm ../sim_ps_cms_pcmm_07_19
+  505  ls ../sim_ps_cms_pcmmm_07_19
+  506  ls ../sim_ps_cms_pcmm_07_19/
+  507  ls ../sim_ps_cms_pcmmm_07_19
+  508  ls ../sim_ps_cms_pcmmm_07_19/
+  509  grepch dwPrimaryRKSIP
+  510  vi pdp.ini
+  511  grepch dwPrimaryRKSPort
+  512  grepch wPrimaryRKSPort
+  513  vi ./policy_server.c + 155
+  514  vi ./policy_server.c +155
+  515  grepch dwPrimaryRKSIP
+  516  make
+  517  vi ./policy_server.c +155
+  518  ./pdp -c 172.0.1.225 1
+  519  grepch ps_cfg.srcip
+  520  vi pdp.ini
+  521  vi onlineCM2.temp
+  522  ./pdp -c 172.0.1.225 1
+  523  make
+  524  makemake
+  525  make
+  526  ./pdp -c 172.0.1.225 1
+  527  nl onlineCM2.temp
+  528  make
+  529  ./pdp -c 172.0.1.225 1
+  530  nl onlineCM2.temp
+  531  make
+  532  vi onlineCM2.temp
+  533  ./pdp -c 172.0.1.225 1
+  534  nl onlineCM2.temp
+  535  vi onlineCM2.
+  536  vi onlineCM2.temp
+  537  ./pdp -c 172.0.1.225 1
+  538  vi pdp.ini
+  539  ./pdp -c 172.0.1.224 1
+  540  nl onlineCM2.temp
+  541  grepch dwSrc_IP_Addr
+  542  make
+  543  nl onlineCM2.temp
+  544  vi onlineCM2.temp
+  545  nl pdp.ini
+  546  ./pdp -c 172.0.1.224 1
+  547  make
+  548  ./pdp -c 172.0.1.224 1
+  549  make
+  550  ./pdp -c 172.0.1.224 1
+  551  nl onlineCM2.temp
+  552  make
+  553  ./pdp -c 172.0.1.224 1
+  554  make
+  555  ./pdp -c 172.0.1.224 1
+  556  vi pdp.ini
+  557  make
+  558  ./pdp -c 172.0.1.224 1
+  559  make
+  560  ./pdp -c 172.0.1.224 1
+  561  make
+  562  ./pdp -c 172.0.1.224 1
+  563  make
+  564  ./pdp -c 172.0.1.224 1
+  565  nl onlineCM2.
+  566  nl onlineCM2.temp
+  567  vi pdp.ini
+  568  ./pdp -c 172.0.1.224 1
+  569  make
+  570  ./pdp -c 172.0.1.224 1
+  571  vi pdp.ini
+  572  ./pdp -c 172.0.1.224 1
+  573  make
+  574  ./pdp -c 172.0.1.224 1
+  575  vi pdp.ini
+  576  ./pdp -c 172.0.1.224 1
+  577  vi pdp.ini
+  578  ./pdp -c 172.0.1.224 1
+  579  make
+  580  ./pdp -c 172.0.1.224 1
+  581  grepch pdp_gb.ps_cfg.srcip
+  582  grepch pdp_gb.ps_cfg.clsfy.dwDest_IP_Addr
+  583  make
+  584  grepch pdp_gb.ps_cfg.clsfy.dwDest_IP_Addr
+  585  grepch pdp_gb.ps_cfg.srcip
+  586  vi pdp.ini
+  587  make
+  588  ./pdp -c 172.0.1.224 1
+  589  nl pdp.ini
+  590  grepch dwDest_IP_Addr
+  591  grepch dwDest_IP_Addr_Mask
+  592  grepch dwDest_IP_Addr
+  593  grepch pdp_gb.ps_cfg.clsfy.dwSrc_IP_Addr
+  594  grepch ucIPV6_Flags
+  595  grepch dwDest_IP_Addr
+  596  greph dwDest_IP_Addr
+  597  make
+  598  ./pdp -c 172.0.1.225 1
+  599  ./pdp -c 172.0.1.224 1
+  600  vi pdp.ini
+  601  cd ../sim_ps_cms_pcmm_07_19/
+  602  vi pdp.ini
+  603  vi onlineCM2.temp
+  604  nl ../sim_ps_cms_pcmm/onlineCM2.temp
+  605  vi onlineCM2.temp
+  606  ./pdp -c 172.0.1.224 1
+  607  cd ../sim_ps_cms_pcmm_07_18/
+  608  vi pdp.ini
+  609  vi onlineCM2.temp
+  610  ./pdp -c 172.0.1.224 1
+  611  cd ../sim_ps_cms_pcmm
+  612  ./pdp -c 172.0.1.224 1
+  613  vi onlineCM2.temp
+  614  ./pdp -c 172.0.1.224 1
+  615  accurev login
+  616  cd /vob/tmj/
+  617  ll
+  618  cd sim_ps_cms_pcmm
+  619  head pdp.ini
+  620  vi pdp.ini
+  621  nl onlineCM2.temp
+  622  ./pdp -c 172.0.1.224 1
+  623  grepch ucAddr_Type
+  624  grepch ucIPV6_Flags
+  625  ./pdp -c 172.0.1.224 1
+  626  vi pdp.ini
+  627  nl onlineCM2.temp
+  628  vi pdp.ini
+  629  grepch ucClassifier_type
+  630  grepc gb_clsfy
+  631  grepc struct cops_pcmm_classifier_s
+  632  grepc "struct cops_pcmm_classifier_s"
+  633  make
+  634  ./pdp -c 172.0.1.224 1
+  635  grepc "struct cops_pcmm_classifier_s"
+  636  grepch cops_pcmm_classifier_s
+  637  grepch pdp_simulator_gb_t
+  638  grepch pdp_gb.clsfy
+  639  grepch pdp_gb.ps_cfg.clsfy
+  640  make
+  641  ./pdp -c 172.0.1.224 1
+  642  make
+  643  ./pdp -c 172.0.1.224 1
+  644  vi pdp.ini
+  645  ./pdp -c 172.0.1.224 kl
+  646  ./pdp -c 172.0.1.224 make
+  647  ./pdp -c 172.0.1.224 2make
+  648  ./pdp -c 172.0.1.224 2
+  649  vi pdp.ini
+  650  ./pdp -c 172.0.1.224 2
+  651  vi pdp.ini
+  652  grepch repeater
+  653  grepch repeator
+  654  make
+  655  grepch ucIPV6_Flags
+  656  grepch ucTc_low
+  657  grepch uxTc_high
+  658  grepch uc'Tc_high
+  659  grepch ucTc_high
+  660  vi pdp.ini
+  661  grepc multicastip
+  662  grepc dwDest_IP_Addr
+  663  grepc dwSrc_IP_Addr
+  664  make
+  665  ./pdp -c 172.0.1.224 1
+  666  MAKE
+  667  make
+  668  MAKE
+  669  ./pdp -c 172.0.1.224 1
+  670  make
+  671  ./pdp -c 172.0.1.224 1
+  672  make
+  673  ./pdp -c 172.0.1.224 1
+  674  vi onlineCM2.temp
+  675  vi pdp.ini
+  676  ./pdp -c 172.0.1.224 1
+  677  make
+  678  ./pdp -c 172.0.1.224 1
+  679  make
+  680  ./pdp -c 172.0.1.224 1
+  681  grepch ucClassifier_type
+  682  grepch PCMM_CLASSIFIER_LEGACY
+  683  grepch wDest_port_end
+  684  grepch clsfy
+  685  make
+  686  ./pdp -c 172.0.1.224 1
+  687  make
+  688  ./pdp -c 172.0.1.224 1
+  689  make
+  690  ./pdp -c 172.0.1.224 1
+  691  make
+  692  ./pdp -c 172.0.1.224 1
+  693  vi pdp.ini
+  694  make
+  695  ./pdp -c 172.0.1.224 1
+  696  make
+  697  ./pdp -c 172.0.1.224 1
+  698  make
+  699  ./pdp -c 172.0.1.224 1
+  700  make
+  701  ./pdp -c 172.0.1.224 1
+  702  vi pdp.ini
+  703  ./pdp -c 172.0.1.224 1
+  704  vi onlineCM2.temp
+  705  make
+  706  ./pdp -c 172.0.1.224 1
+  707  vi onlineCM2.temp
+  708  ./pdp -c 172.0.1.224 1
+  709  grepch COPS_PCMM_LEGACY_CLASSIFIERS_LEN
+  710  make
+  711  ./pdp -c 172.0.1.224 1
+  712  vi pdp.ini
+  713  ./pdp -c 172.0.1.224 1
+  714  vi onlineCM2.temp
+  715  ./pdp -c 172.0.1.224 1
+  716  vi onlineCM2.temp
+  717  vi pdp.ini
+  718  make
+  719  ./pdp -c 172.0.1.224 1
+  720  make
+  721  ./pdp -c 172.0.1.224 1
+  722  make
+  723  ./pdp -c 172.0.1.224 1
+  724  make
+  725  ./pdp -c 172.0.1.224 1
+  726  make
+  727  ./pdp -c 172.0.1.224 1
+  728  make
+  729  ./pdp -c 172.0.1.224 1
+  730  make
+  731  ./pdp -c 172.0.1.224 1
+  732  make
+  733  ./pdp -c 172.0.1.224 1
+  734  make
+  735  ./pdp -c 172.0.1.224 1
+  736  make
+  737  ./pdp -c 172.0.1.224 1
+  738  make
+  739  ./pdp -c 172.0.1.224 1
+  740  make
+  741  ./pdp -c 172.0.1.224 1
+  742  ake
+  743  make
+  744  ./pdp -c 172.0.1.224 1
+  745  make
+  746  ./pdp -c 172.0.1.224 1
+  747  make
+  748  ./pdp -c 172.0.1.224 1
+  749  make
+  750  ./pdp -c 172.0.1.224 1
+  751  make
+  752  ./pdp -c 172.0.1.224 1
+  753  make
+  754  ./pdp -c 172.0.1.224 1
+  755  make
+  756  ./pdp -c 172.0.1.224 1
+  757  make
+  758  ./pdp -c 172.0.1.224 1
+  759  make
+  760  ./pdp -c 172.0.1.224 1
+  761  make
+  762  ./pdp -c 172.0.1.224 1
+  763  make
+  764  ./pdp -c 172.0.1.224 1
+  765  make
+  766  ./pdp -c 172.0.1.224 1
+  767  make
+  768  ./pdp -c 172.0.1.224 1
+  769  make
+  770  ./pdp -c 172.0.1.224 1
+  771  make
+  772  ./pdp -c 172.0.1.224 1
+  773  make
+  774  ./pdp -c 172.0.1.224 1
+  775  make
+  776  ./pdp -c 172.0.1.224 1
+  777  make
+  778  ./pdp -c 172.0.1.224 1
+  779  make
+  780  ./pdp -c 172.0.1.224 1
+  781  make
+  782  ./pdp -c 172.0.1.224 1
+  783  make
+  784  ./pdp -c 172.0.1.224 1
+  785  make
+  786  ./pdp -c 172.0.1.224 1
+  787  maKE
+  788  make
+  789  maKE
+  790  ./pdp -c 172.0.1.224 1
+  791  vi pdp.ini
+  792  ./pdp -c 172.0.1.224 1
+  793  vi pdp.ini
+  794  ./pdp -c 172.0.1.224 1
+  795  make
+  796  ./pdp -c 172.0.1.224 1
+  797  make
+  798  ./pdp -c 172.0.1.224 1
+  799  make
+  800  ./pdp -c 172.0.1.224 1
+  801  make
+  802  ./pdp -c 172.0.1.224 1
+  803  make
+  804  ./pdp -c 172.0.1.224 1
+  805  make
+  806  ./pdp -c 172.0.1.224 1
+  807  make
+  808  ./pdp -c 172.0.1.224 1
+  809  make
+  810  ./pdp -c 172.0.1.224 1
+  811  make
+  812  cd ../..
+  813  ls
+  814  cd tmj/
+  815  ls
+  816  pwd
+  817  cd /data/tmj/tmj_86x/
+  818  cd casa/build/cs8160/
+  819  ls
+  820  make v=99
+  821  su ms
+  822  cd /vob/tmj
+  823  ls
+  824  scp zzz_tmp.cm nroot:172.0.5.9:/tftpboot
+  825  scp zzz_tmp.cm casa:172.0.5.9:/tftpboot
+  826  scp zzz_tmp.cm casa@172.0.5.9:/tftpboot
+  827  ls
+  828  scp cm_25.bin casa@172.0.5.9:/tftpboot
+  829  scp Class52.txt casa@172.0.5.9:/tftpboot
+  830  scp cm_25.bin casa@172.0.5.9:/tftpboot
+  831  mv cm_25.bin cm_66.bin
+  832  scp cm_66.bin casa@172.0.5.9:/tftpboot
+  833  ls
+  834  vi 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt 
+  835  scp 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt casa@172.0.5.9:/tftpboot
+  836  scp 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt casa@172.0.2.201:/tftpboot
+  837  scp 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt root@172.0.2.201:/tftpboot
+  838  pwd
+  839  ll
+  840  scp -r /tftpboot/casa_netconf_training/netconf_script_v20190613.tar.bz2 ./
+  841  scp -r casa@172.0.1.133:/tftpboot/casa_netconf_training/netconf_script_v20190613.tar.bz2 ./
+  842  mkdir 
+  843  mkdir  casa_netconf_training
+  844  cd casa_netconf_training/
+  845  scp -r casa@172.0.1.133:/tftpboot/casa_netconf_training/* ./
+  846  cd ../
+  847  ll
+  848  vi 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt 
+  849  rm 4FBBC48D-9397-4615-AE6D-0E7223BCA677.txt 
+  850  cp 101_1_liuling\ \(1\).bin  tmj.bin
+  851  ll
+  852  spc tmj.bin casa@172.0.5.9:/tftpboot
+  853  scp tmj.bin casa@172.0.5.9:/tftpboot
+  854  rm tmj.bin
+  855  ll
+  856  vi Class52.txt 
+  857  ll
+  858  vi l2vpn.txt 
+  859  scp l2vpn.txt casa@172.0.5.9:/tftpboot
+  860  ll
+  861  vi l2vpn.txt 
+  862  scp l2vpn.txt casa@172.0.5.9:/tftpboot
+  863  ll
+  864  scp 101_1_liuling\ \(1\).bin casa@172.0.5.9:/tftpboot
+  865  ll
+  866  mv cm_66.bin cm_25.bin
+  867  scp cm_25.bin casa@172.0.5.9:/tftpboot/
+  868  pwd
+  869  ls
+  870  cd /data/tmj/tmj_86x/
+  871  cd dcts/
+  872  grepc DSX_MAX_MSG_LEN
+  873  vi ./mac/src/mac_dsx.c + 8504
+  874  vi ./mac/src/mac_dsx.c +8504
+  875  ls
+  876  cscope -Rbq
+  877  vi ./mac/src/mac_dsx.c +8504
+  878  cd /vob/tmj
+  879  ls
+  880  scp -r casa@172.0.1.133:/tftpboot/cm_25.txt cm_25.bin ./
+  881  rm cm_25.ls
+  882  ls
+  883  rm cm_25.bin 
+  884  scp -r casa@172.0.1.133:/tftpboot/cm_25.bin ./
+  885  ls -l | grep 25
+  886  pwd
+  887  cd /data/tmj/tmj_86x/
+  888  grepc rcv_ups
+  889  cd /vob/tmj/
+  890  ls
+  891  vi cm_25.txt
+  892  accurev login
+  893  cd /data/tmj/tmj_86x/
+  894  acgui &
+  895  cd casa/build/archive/100G/
+  896  make
+  897  pwd
+  898  cp image_100g.gz image_100g.gz.tmj
+  899  scp image_100g.gz.tmj nroot@172.0.11.25:/tftpboot
+  900  scp image_100g.gz.tmj nroot@172.0.10.66:/tftpboot
+  901  cd -
+  902  cd casa
+  903  cd build/rmi-g2/
+  904  make
+  905  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  906  scp ddm_rpc_server.tmj nroot@172.0.10.66:/casa/bin
+  907  pwd
+  908  make
+  909  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  910  scp ddm_rpc_server.tmj nroot@172.0.10.66:/casa/bin
+  911  pwd
+  912  accurev infor
+  913  accurev info
+  914  pwd
+  915  cd ../
+  916  cd archive/100G/
+  917  cp image_100g.gz image_100g.gz.tmj
+  918  pwd
+  919  history 100
+  920  pwd
+  921  scp image_100g.gz nroot@172.0.10.66:/fdsk 
+  922  scp image_100g.gz nroot@172.0.11.25:/fdsk 
+  923  pwd
+  924  accurev info
+  925  cp image_100g.gz image_100g.gz.tmj.86
+  926  scp image_100g.gz.tmj.86 nroot@172.0.10.66:/fdsk 
+  927  scp image_100g.gz.tmj.86 nroot@172.0.11.25:/fdsk 
+  928  acgui &
+  929  cd -
+  930  cd rmi-g2/
+  931  make
+  932  scp ../../../rmi-xls32/casa/mgmt/CLI/bin/TARGET_SMM/shell.exe nroot@172.0.2.166:/home
+  933  acgui &
+  934  make
+  935  scp ../../../rmi-xls32/casa/mgmt/CLI/bin/TARGET_SMM/shell.exe nroot@172.0.2.166:/home
+  936  make
+  937  scp ../../../rmi-xls32/casa/mgmt/CLI/bin/TARGET_SMM/shell.exe nroot@172.0.2.166:/home
+  938  make
+  939  scp ../../../rmi-xls32/casa/mgmt/CLI/bin/TARGET_SMM/shell.exe nroot@172.0.2.166:/home
+  940  make
+  941  scp ../../../rmi-xls32/casa/mgmt/CLI/bin/TARGET_SMM/shell.exe nroot@172.0.2.166:/home
+  942  acgui &
+  943  cd ../../
+  944  cd mgmt/CLI/
+  945  pwd
+  946  cd ../../../
+  947  cd casa/build/archive/100G/
+  948  make xlp2
+  949  scp ../../../../brcm-xlpii64/casa/uni_daemon/bin/TARGET_LC64/uni_daemon nroot@172.0.11.25:/tftpboot
+  950  make xlp2
+  951  scp ../../../../brcm-xlpii64/casa/uni_daemon/bin/TARGET_LC64/uni_daemon nroot@172.0.11.25:/tftpboot
+  952  make xlp2
+  953  scp ../../../../brcm-xlpii64/casa/uni_daemon/bin/TARGET_LC64/uni_daemon nroot@172.0.11.25:/tftpboot
+  954  make
+  955  cd -
+  956  cd dcts/
+  957  grepc "DSX_MAX_MSG_LEN"
+  958  cd ../
+  959  cd casa/build/rmi-g2/
+  960  make
+  961  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  962  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  963  make
+  964  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  965  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  966  make
+  967  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  968  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  969  make
+  970  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  971  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  972  make
+  973  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  974  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  975  make
+  976  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  977  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  978  make
+  979  cp ../../../rmi-xls32/casa/ddm/bin/TARGET_SMM/ddm_rpc_server ddm_rpc_server.tmj
+  980  scp ddm_rpc_server.tmj nroot@172.0.11.25:/casa/bin
+  981  cd ../archive/100G/
+  982  make
+  983  MAKE
+  984  cp image_100g.gz image_100g.gz.tmj.86
+  985  scp image_100g.gz.tmj nroot@172.0.11.25:/fdsk
+  986  make
+  987  MAKE
+  988  cp image_100g.gz image_100g.gz.tmj.86
+  989  scp image_100g.gz.tmj nroot@172.0.11.25:/fdsk
+  990  cp image_100g.gz image_100g.gz.tmj.86
+  991  scp image_100g.gz.tmj.86 nroot@172.0.11.25:/fdsk
+  992  make
+  993  cp image_100g.gz image_100g.gz.tmj
+  994  scp image_100g.gz.tmj nroot@172.0.11.25:/fdsk
+  995  accurev show ws
+  996  accurev ws show
+  997  accurev show wspaces
+  998  cd /vob/tmj/tmj_k8s
+  999  cd /vob/tmj/tmj8241 
+ 1000  accurev login
+ 1001  accurev update
+ 1002  acgui &
+ 1003  accurev update
+ 1004  pwd
+ 1005  cd /data
+ 1006  scp -r casa@172.0.5.9:/casa/home/tftp.pcap ./
+ 1007  scp -r casa@172.0.5.9:/home/casa/tftp.pcap ./
+ 1008  cd -
+ 1009  kubectl get pod -n tmj-vccap-dev -o wide
+ 1010  cd -
+ 1011  ls
+ 1012  mv tftp.pcap tmj/
+ 1013  ls
+ 1014  ls  -l ../tmj
+ 1015  ls -l /tmj
+ 1016  ls -l /tmj/*
+ 1017  ls
+ 1018  ls -l tmj/
+ 1019  cd -
+ 1020  scp -r casa@172.0.5.9:/home/casa/tftp.pcap ./tmj/
+ 1021  scp -r casa@172.0.5.9:/home/casa/tftp.pcap_1 ./tmj/
+ 1022  mv tftp.pcap_1 tftp_1.pcap
+ 1023  mv tmj/tftp.pcap_1 tmj/tftp_1.pcap
+ 1024  ls
+ 1025  cd tmj/
+ 1026  ls
+ 1027  mv 7825536A-76F6-4ee8-AB43-0530067E7754.txt classifier_l2vpn_4.txt
+ 1028  scp classifier_l2vpn_4.txt casa
+ 1029  scp classifier_l2vpn_4.txt casa@172.0.1.133:/tftpboot
+ 1030  ls
+ 1031  cd tmj_8241_beta/
+ 1032  ls
+ 1033  which git
+ 1034  git clone git@github.com:tangmujie/MJ.git
+ 1035  git clone https://github.com/tangmujie/MJ.git
+ 1036  ls
+ 1037  cd ~
+ 1038  git clone https://github.com/tangmujie/MJ.git
+ 1039  ssh-keygen -t rsa -C "tangmujie@casachina.com.cn"
+ 1040  cat .ssh/id_rsa
+ 1041  cat .ssh/id_rsa.pub 
+ 1042  git clone git@github.com:tangmujie/MJ.git
+ 1043  git add remote origin git@github.com:tangmujie/MJ.git
+ 1044  ls
+ 1045  mkdir MJ
+ 1046  ls
+ 1047  cd MJ
+ 1048  git init
+ 1049  git add remote origin git@github.com:tangmujie/MJ.git
+ 1050  git remote add origin git@github.com:tangmujie/MJ.git
+ 1051  git pull
+ 1052  git pull master origin
+ 1053  git branch
+ 1054  git branch -a
+ 1055  git checkout remotes/origin/master
+ 1056  ls
+ 1057  git branch
+ 1058  history > histiry.txt
+ 1059  ls
+ 1060  git add *
+ 1061  git commit -m "Get history"
+ 1062  git config --global user.email "tangmujie@casachina.com.cn"
+ 1063  git config --global user.name "tangmujie"
+ 1064  git commit -m "Get history"
+ 1065  git push
+ 1066  git config --global push.default simple
+ 1067  git status
+ 1068  git push
+ 1069  git branch
+ 1070  git push origin/master
+ 1071  git push origin/master master
+ 1072  git push origin/master MJ
+ 1073  git push 
+ 1074  git push origin master
+ 1075  git pull
+ 1076  git pull master origin
+ 1077  git pull remote/master origin
+ 1078  git pull master origin
+ 1079  git push -u origin master
+ 1080  cd ..
+ 1081  ls
+ 1082  rm MJ -r
+ 1083  ls
+ 1084  sudo rm MJ -r
+ 1085  ls
+ 1086  sudo rm MJ -r
+ 1087  rm MJ -r
+ 1088  y
+ 1089  yls
+ 1090  ls
+ 1091  ls MJ
+ 1092  rmdir MJ
+ 1093  cd MJ
+ 1094  ls
+ 1095  ll
+ 1096  cd ..
+ 1097  ls
+ 1098  rm MJ -r
+ 1099  y
+ 1100  ls
+ 1101  git clone git@github.com:tangmujie/MJ.git
+ 1102  ls
+ 1103  cd MJ
+ 1104  ls
+ 1105  git remote
+ 1106  git remote -a
+ 1107  git remote -v
+ 1108  history > history.txt
